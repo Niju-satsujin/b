@@ -1,0 +1,14 @@
+# C++ build artifacts
+week-*/*/build/
+
+# Node
+node_modules/
+.next/
+.env*
+
+# OS
+.DS_Store
+
+# Prisma local DB
+*.db
+*.db-journal
